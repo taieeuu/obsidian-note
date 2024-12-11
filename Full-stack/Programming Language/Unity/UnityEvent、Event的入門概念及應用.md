@@ -1,0 +1,1 @@
+https://home.gamer.com.tw/artwork.php?sn=5108437

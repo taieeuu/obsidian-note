@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "showInlineTitle": true,
+  "strictLineBreaks": false,
+  "trashOption": "local",
+  "showLineNumber": true,
+  "readableLineLength": false
+}

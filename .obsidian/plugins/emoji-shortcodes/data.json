@@ -1,0 +1,11 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":question:",
+    ":australia:",
+    ":left_right_arrow:"
+  ]
+}

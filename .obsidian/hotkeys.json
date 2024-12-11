@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:Template/TOC.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
+}
